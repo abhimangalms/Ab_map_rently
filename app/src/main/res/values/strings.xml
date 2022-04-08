@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ab Map Directions</string>
+    <string name="base_url">https://maps.googleapis.com</string>
+</resources>
